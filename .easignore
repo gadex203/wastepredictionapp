@@ -1,0 +1,37 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+
+# env
+.env
+.env.*
+
+# Python/venv
+.venv/
+venv/
+**/__pycache__/
+**/*.pyc
+
+# Server + models (not needed for mobile build)
+server/
+trainedmodel/
+Dockerfile
+
+# build artifacts
+dist/
+build/
+web-build/
+
+# misc
+.git/
+.gitattributes
+.gitignore
+.DS_Store
+Thumbs.db
+*.log
+
+# local datasets or extras
+25.3/

@@ -1,0 +1,14 @@
+{
+  "build": {
+    "apk": {
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_INFERENCE_MODE": "api",
+        "EXPO_PUBLIC_INFERENCE_URL": "https://waste-inference-1041041970423.europe-west3.run.app",
+        "EXPO_PUBLIC_MIN_CONFIDENCE": "0.35"
+      }
+    }
+  }
+}

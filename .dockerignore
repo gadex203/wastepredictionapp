@@ -1,0 +1,15 @@
+node_modules
+.expo
+.git
+*.log
+.DS_Store
+android
+ios
+web-build
+dist
+build
+.env
+.env.local
+**/__pycache__
+**/*.pyc
+
