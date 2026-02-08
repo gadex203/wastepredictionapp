@@ -2,34 +2,34 @@
 
 React Native + Expo app based on the `Plan/` docs. This MVP is offline-first and uses **mocked** ML detections (label + confidence + optional bounding boxes).
 
-## Uygulama görüntüleri
+## Application images
 
-### İstatistikler
-Taranan öğe sayısı, toplam puan, günlük seri ve haftalık görev özeti; atık türüne göre dağılım (plastik, kağıt, cam, metal, pil, organik).
+### Statistics
+Number of items scanned, total score, daily series and weekly task summary; distribution by waste type (plastic, paper, glass, metal, battery, organic).
 
-![İstatistikler ekranı](assets/screenshots/stats.jpeg)
+![Statistics screen](assets/screenshots/stats.jpeg)
 
-### Öğren – Ayırma rehberleri
-Doğru geri dönüşüm için kategoriler: Sarı (Plastik), Mavi (Kağıt), Yeşil (Cam), Gri (Metal), Kırmızı (Pil), Kahverengi (Organik).
+### Learn – Sorting guides
+Categories for proper recycling: Yellow (Plastic), Blue (Paper), Green (Glass), Grey (Metal), Red (Battery), Brown (Organic).
 
-![Ayırma rehberleri](assets/screenshots/sorting-guides.jpeg)
+![Sorting guides](assets/screenshots/sorting-guides.jpeg)
 
-### Öğren – Kartlar (İpuçları / Mitler / Etki)
-Geri dönüşüm mitleri ve gerçekler (ör. cam, kırık cam, pizza kutusu); etki kartları (1 ton kağıt = 17 ağaç, alüminyum kutu, camın sonsuz geri dönüşümü).
+### Learning – Flashcards (Tips / Myths / Impact)
+Recycling myths and facts (e.g., glass, broken glass, pizza boxes); impact cards (1 ton of paper = 17 trees, aluminum cans, infinite recycling of glass).
 
-![Kartlar – Mitler](assets/screenshots/cards-myths.jpeg)
+![Cards – Myths](assets/screenshots/cards-myths.jpeg)
 
-![Kartlar – Etki](assets/screenshots/impact.jpeg)
+![Cards – Effect](assets/screenshots/impact.jpeg)
 
-### Öğren – Daha fazla bilgi
-Kategori detayı: örn. Kağıt için yapılacaklar (temiz ve kuru tut, kartonları düzleştir) ve yapılmayacaklar (yağlı/ıslak kağıt).
+###Learn – More information
+Category details: e.g., things to do for paper (keep it clean and dry, flatten cardboard) and things not to do (greasy/wet paper).
 
-![Daha fazla bilgi – Kağıt](assets/screenshots/learn-detail.jpeg)
+![More information](assets/screenshots/learn-detail.jpeg)
 
 ### Quiz
-“Bu hangi kutuya ait?” sorusu; çoktan seçmeli (sarı/mavi/yeşil/gri/kırmızı/kahverengi); doğru/yanlış ve kısa açıklama; soru ilerlemesi ve puan.
+Multiple-choice questions and information about recycling objects.
 
-![Quiz ekranı](assets/screenshots/quiz.jpeg)
+![Quiz screen](assets/screenshots/quiz.jpeg)
 
 ---
 
